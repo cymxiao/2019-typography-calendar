@@ -7,7 +7,7 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
 import { NativeStorage } from '@ionic-native/native-storage';
 import { Base64ToGallery } from '@ionic-native/base64-to-gallery';
-import { Firebase } from '@ionic-native/firebase';
+//import { Firebase } from '@ionic-native/firebase';
 import { NativeAudio } from '@ionic-native/native-audio';
 import { LocalNotifications } from '@ionic-native/local-notifications';
 import { Market } from '@ionic-native/market';
@@ -60,7 +60,7 @@ import { AboutPage } from '../pages/about/about';
     StorageService,
     LogService,
     Base64ToGallery,
-    Firebase,
+    //Firebase,
     NativeAudio,
     AudioService,
     Market,
